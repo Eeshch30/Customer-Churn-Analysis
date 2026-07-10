@@ -8,6 +8,7 @@ This project analyzes customer behaviour and predicts churn using exploratory da
 
 The objective is to identify patterns that contribute to customer loss and generate actionable business recommendations.
 
+Original dataset used: https://www.kaggle.com/datasets/spscientist/telecom-data
 ---
 
 ## Problem Statement
